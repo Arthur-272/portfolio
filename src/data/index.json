@@ -1,0 +1,95 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Programming Languages",
+      "description": "Experienced in Java, Python, JavaScript, and SQL, enabling the development of versatile and efficient applications across multiple domains."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Frameworks & Libraries",
+      "description": "Skilled in using Spring Boot, React.js, Node.js, and Express.js for building scalable and performant full-stack applications."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Cloud & DevOps",
+      "description": "Proficient with cloud services like AWS, Docker, and Kubernetes to deploy, manage, and scale applications in cloud environments."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Testing & Development Tools",
+      "description": "Experienced with tools such as Git, Postman, Mockito, and Jira, enhancing collaboration, testing, and project management."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Online Trivia Game",
+      "description": "Developed an online trivia game with real-time multiplayer functionality. Leveraged DynamoDB, Firebase, AWS Lambda, and Google Cloud Functions for scalability and accessibility. Implemented leaderboards and administrative tools for performance monitoring."
+      
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "CharuVidya - E-learning Platform",
+      "description": "Built a comprehensive e-learning platform with distinct modules for Admin, Faculty, Reviewer, and Students using JHipster, Spring Boot, and Angular. Enabled video lectures, resources, and quizzes for structured online education.",
+      "link": "https://github.com/learnwithparth/CharuVidya-Charusat"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Healthify - Healthcare Management System",
+      "description": "Created a healthcare management application that supports secure patient authentication, real-time booking, and management of doctors and hospitals. Utilized Node.js, Express, MongoDB, and Socket.io for efficient communication and data handling.",
+      "link": "https://github.com/Arthur-272/Healthify"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ],
+  "working_experience": [
+    {
+      "id": "1",
+      "company": "Pointbasis Inc",
+      "role": "Software Engineer",
+      "duration": "March 2021 - June 2023",
+      "location": "Remote",
+      "description": "Worked on a cloud-based SaaS product for CAD repair, surface, and volume mesh generation of 3D models. Developed RESTful APIs using Spring Boot and Mockito, enhancing reliability and performance. Utilized Angular, Docker, Kubernetes, AWS, and MongoDB in a cloud environment to ensure scalability and robustness."
+    },
+    {
+      "id": "2",
+      "company": "Navpad Infotech",
+      "role": "Software Engineer Intern",
+      "duration": "April 2020 - May 2020",
+      "location": "Gujarat, India",
+      "description": "Led the development and enhancement of an ERP system, implementing a method to dynamically modify running software modules and optimizing database structures. Streamlined development with advanced software requirements gathering and analysis techniques."
+    }
+  ]
+}
